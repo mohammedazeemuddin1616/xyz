@@ -1,0 +1,29 @@
+ #id1{
+    margin-right: 150px;
+    font-size: x-large;
+}
+#id2{
+    margin-left: 150px;
+    font-size: x-large;
+}
+
+.ftr{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: lightgray;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+table{
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    width: 100%;
+}
+
+td{
+    text-align: center;
+}

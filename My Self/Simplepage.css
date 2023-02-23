@@ -1,0 +1,35 @@
+*{
+    /* background-color: rgb(11, 7, 12); */
+    border: radius 30px;
+}
+.page{
+    background-color: lightgray;
+    border-radius: 20px;
+}
+.page :hover{
+    background-color: bisque;
+}
+.searchbar{
+align-items: center;
+justify-content: center;
+text-align: center;
+padding: 10px;
+
+}
+.searchbar input{
+    border-radius: 25px;
+    width: 500px;
+    padding: 5px;
+}
+.searchbar button{
+    border-radius: 25px;
+    width: 100px;
+    padding: 5px;
+}
+.searchbar button:hover{
+    background-color: rgb(91, 75, 107);
+    color:rgb(48, 153, 83)
+}
+body{
+    text-align: center;
+}

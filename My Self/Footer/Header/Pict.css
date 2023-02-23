@@ -1,0 +1,19 @@
+h1{
+text-align: center;
+}
+b{
+    margin-left:500px;
+}
+.mdv {
+    width: 600px;
+    height: 800px;
+    background-color:aliceblue;
+    border: 2px solid gray;    
+}
+.box1 {
+    width: 500px;
+    height: 100px;
+    margin-left: 45px;
+    margin-top: 10px;
+
+}
